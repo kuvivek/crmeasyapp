@@ -1,2 +1,4 @@
 # crmeasyapp
-CRM Application Stage 1
+CRM Application Using Django.
+
+
